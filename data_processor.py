@@ -33,8 +33,8 @@ def transform_rules(rules_string, products_list):
         rhs.sort()
 
         rules.append({
-            'lhs': lhs,
-            'rhs': rhs,
+            'antecedent': lhs,
+            'consequent': rhs,
             'confidence': rule.confidence,
             'support': rule.support,
         })
