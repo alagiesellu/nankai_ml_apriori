@@ -1,3 +1,5 @@
+# Student: Muhammed S. Baldeh (6007)
+
 # Report
 
 Algorith results shows that as the number of *anteceden* increases, the confidence of the *consequent* increase.
